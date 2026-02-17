@@ -44,8 +44,9 @@ console.log('iam movieidinfo')
     (similarMovies&&movieIdInfo)?<div className='bg-black'>
      
      <div className="z-10 w-full bg-gradient-to-b from-black absolute  flex justify-between  items-center">
-      <div className=" p-1 mx-2">
-        <img className="h-[4rem] md:h-[5.5rem]" src={logo} alt="logo" />
+      <div className=" p-2 mx-2">
+        <Link to='/browse'> 
+        <img className="h-[3rem] " src={logo} alt="logo" /></Link>
       </div>
       <div>
         <Link to='/browse' className="bg-red-600 rounded-sm   text-white font-semibold text-[0.8rem] md:text-[1rem] md:px-4 md:py-2 px-3 py-2 mx-10 ">Home</Link>
