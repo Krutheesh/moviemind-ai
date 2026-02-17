@@ -6,7 +6,7 @@ MoviesMind AI is a modern web application that combines the power of React + Vit
 
 ## ​ Live Demo
 
-👉 [MovieMind AI(Vercel)](https://netflix-gpt-qe35.vercel.app/)
+👉 [MovieMind AI(Vercel)](https://moviemind-ai-qe35.vercel.app/)
 
 ---
 
@@ -57,8 +57,7 @@ Follow these steps to run the project locally:
 
 ## 1️⃣ Clone the repository
 
-git clone https://github.com/Krutheesh/NetflixGpt.git
-
+git clone https://github.com/Krutheesh/moviemind-ai.git
 ## 2️⃣ Go into the project directory
 
 cd  moviemind-ai
